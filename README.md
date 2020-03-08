@@ -23,7 +23,7 @@ PHP in 7.4 or higher version.
 ### Via GitHub
 
 ```bash
-$ git@github.com:garciasdos/spanish-national-identifier.git
+$ git pull git@github.com:garciasdos/spanish-national-identifier.git
 ```
 
 ### Via [Composer](https://getcomposer.org/doc/00-intro.md)
