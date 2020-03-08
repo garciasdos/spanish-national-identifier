@@ -1,0 +1,9 @@
+version: "3.7"
+services:
+  php:
+    container_name: php_spa_id
+    build:
+      context: .
+      dockerfile: ./etc/infrastructure/docker/Dockerfile
+    volumes:
+      - ./:/opt
