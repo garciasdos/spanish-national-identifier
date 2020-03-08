@@ -11,7 +11,7 @@ final class SNILetterTest extends TestCase
 {
     public function test_given_valid_letter_should_instantiate_new_one(): void
     {
-        $letter = SNILetter::fromString('B');
+        $letter = SNILetter::fromString('A');
 
         $this->assertSame('A', $letter->value());
     }
