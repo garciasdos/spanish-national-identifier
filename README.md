@@ -26,9 +26,9 @@ PHP in 7.4 or higher version.
 $ git@github.com:garciasdos/spanish-national-identifier.git
 ```
 
-### Coming Soon: Via [Composer](https://getcomposer.org/doc/00-intro.md)
+### Via [Composer](https://getcomposer.org/doc/00-intro.md)
 
-Package hosted in Packagist.
+Package hosted in [Packagist](https://packagist.org/packages/garciasdos/spanish-national-identifier).
 
 Require the latest version of `garciasdos/spanish-national-identifier` with Composer
 
