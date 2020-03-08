@@ -1,5 +1,5 @@
 {
-    "name": "garciasdos/generate-nif",
+    "name": "garciasdos/spanish-national-identifier",
     "description": "Generate a Spanish National Identifier",
     "type": "library",
     "require": {
