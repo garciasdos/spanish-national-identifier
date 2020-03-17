@@ -1,5 +1,5 @@
 # Spanish National Identifier for PHP
-
+![](https://github.com/garciasdos/spanish-national-identifier/workflows/PHP%20Composer/badge.svg)
 **Implementation for SNI (aka DNI) VO.**
 
 ## Usage
